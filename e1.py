@@ -47,5 +47,5 @@ for b in becarios:
 elimina_becario("Leal González IgnaciO")
 
 
-
+#Modificacion de prueba
 #print becarios
