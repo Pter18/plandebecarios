@@ -14,7 +14,7 @@ def esPrimo(n,x):
 		esPrimo(n,x+1)
 
 #Cantidad de numeros primos que se desea calcular
-user_input = "hola"	
+user_input = 5	
 x=1
 if type(user_input) == int:
 	esPrimo(user_input,x)
