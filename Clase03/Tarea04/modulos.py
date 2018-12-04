@@ -26,8 +26,6 @@ c_https = 0
 c_up = 0
 c_down = 0
 n_name = 0
-honeypot = False
-ssh = False
 #Prod_http
 apache = 0
 nginx = 0
